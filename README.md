@@ -139,6 +139,10 @@ Twitter-Sentiment-Analysis/
 
 ---
 
+
+<img width="1178" height="699" alt="image" src="https://github.com/user-attachments/assets/75d14867-5130-48bb-8707-71464a48227d" />
+
+---
 ## Key Findings
 
 ### Most Discussed Topic
